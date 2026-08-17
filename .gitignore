@@ -47,3 +47,15 @@ Desktop.ini
 # Logs & Temporary Files
 *.log
 tmp/
+
+# Agents
+.agents/
+AGENTS.md
+
+# Documents & Local datasets
+docs/*.pdf
+docs/
+
+# Documentation
+DOCUMENTACION.md
+

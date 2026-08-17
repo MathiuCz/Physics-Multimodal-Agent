@@ -1,15 +1,23 @@
-from app.routers import vision
-from app.routers import function_calling
 from fastapi import FastAPI
+from app.routers import busqueda
 
-from app.routers import busqueda, documentos, rag, rag_memory, rag_re_ranker
+#Instancia principal
+app = FastAPI(
+    title="API Motor Semántico RAG Multimodal",
+    description="Motor de búsqueda semántica y síntesis RAG para diapositivas con CLIP y Gemini.",
+    version="1.0.0"
+)
 
-app = FastAPI()
+#Endpoint de verificación de estado
+@app.get("/", tags=["Health Check"],  description="Verifica el estado del servidor")
+def health_check():
 
-app.include_router(vision.router, prefix="/vision")
-app.include_router(function_calling.router, prefix="/function-calling")
-app.include_router(busqueda.router, prefix="/busqueda")
-app.include_router(documentos.router, prefix="/documentos")
-app.include_router(rag.router, prefix="/rag")
-app.include_router(rag_memory.router, prefix="/rag-memory")
-app.include_router(rag_re_ranker.router, prefix="/rag-re-ranker")
+    return {
+        "status": "online",
+        "service": "Motor Semántico RAG Multimodal",
+        "version": "1.0.0"
+    }
+
+#Registro de routers activos
+app.include_router(busqueda.router, prefix="/busqueda", tags=["Búsqueda y RAG"])
+

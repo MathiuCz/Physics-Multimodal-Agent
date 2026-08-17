@@ -1,7 +1,7 @@
 from app.core import supabase
 from fastapi import APIRouter, HTTPException
 
-from app.core.embedding import generar_embedding
+from app.rag.embedding import generar_embedding
 from app.core.supabase_client import client
 from app.models.schemas import BusquedaRequest, BusquedaResponse
 
