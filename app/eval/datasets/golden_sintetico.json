@@ -1,0 +1,1590 @@
+[
+  {
+    "diapositiva": [
+      "semana01_1.pdf",
+      1
+    ],
+    "origen": "sin_contenido"
+  },
+  {
+    "pregunta": "¿Cómo se escribe la ecuación de autovalor para el operador de posición en tres dimensiones?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        2
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué representa la ecuación del operador de posición actuando sobre su estado propio?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        2
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se escriben las condiciones de ortogonalidad y completez para el operador de posición en coordenadas esféricas?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        3
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es la ecuación de autovalores para el operador de posición en coordenadas esféricas?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        3
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se expresa un vector de estado en función de los autoestados de energía usando la condición de completez?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        4
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿De qué manera obtenemos la función de onda al proyectar un vector de estado en el espacio de posición?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        4
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué representan los coeficientes c_i cuando expresamos la función de onda como una combinación lineal de autofunciones?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        5
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relaciona la condición de norma unidad con las amplitudes de probabilidad en el espacio de Hilbert?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        5
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se define la función de onda en términos de los estados de la base y los coeficientes?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        6
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿De qué manera actúa el operador de traslación espacial sobre un estado de posición?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        6
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se define la expresión matemática del operador de traslación en función del momento lineal?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        7
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué propiedad cumplen los operadores de traslación en distintas direcciones respecto a la conmutación?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        7
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se expresa el operador de traslación en serie de potencias para un desplazamiento infinitesimal?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        8
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué representa el diagrama de traslaciones entre los puntos A, B, C y D en términos de operadores?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        8
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relaciona la conmutatividad de los operadores de traslación en distintas direcciones con el conmutador de los operadores de momento lineal?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        9
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué la diferencia entre aplicar dos traslaciones en orden inverso nos lleva a que el conmutador del momento en x e y sea cero?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        9
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se define la expresión matemática del operador de traslación en tres dimensiones?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        10
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué relación de conmutación existe entre las componentes de la posición y del momento lineal?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        10
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relaciona la conmutación entre el operador de posición y el operador de traslación con el conmutador entre posición y momento?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        11
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué expresión general define el conmutador entre las componentes de posición y momento en diferentes direcciones?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        11
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se escribe la ecuación de autovalor para el operador de momento lineal en tres dimensiones?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        12
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es la expresión para la condición de ortogonalidad y completez de los eigenstates del momento lineal en 3D?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        12
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se escribe la relación de cierre o completez usando coordenadas esféricas para el momento?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        13
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es la expresión para la función de onda en el espacio de momentos en función de las autofunciones y las amplitudes de probabilidad?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        13
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se escriben los operadores de momento y posición en función de sus derivadas?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        14
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es la expresión para el producto interno entre los autoestados de posición y momento?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        14
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relacionan la función de onda en posición y la de momento mediante la transformada de Fourier?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        15
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es la expresión matemática para pasar de la representación de momentos a la representación de posiciones?",
+    "relevantes": [
+      [
+        "semana01_1.pdf",
+        15
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "diapositiva": [
+      "semana01_2.pdf",
+      1
+    ],
+    "origen": "sin_contenido"
+  },
+  {
+    "pregunta": "¿Cómo se escribe el hamiltoniano para un sistema de dos cuerpos que interactúan a través de un potencial dependiente de su distancia?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        2
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué meta tenemos al estudiar la dinámica de dos cuerpos en este tema?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        2
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se descompone el operador de momento lineal al cuadrado para cada partícula en coordenadas cartesianas?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        3
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es la expresión del potencial coulombiano para un sistema de dos cuerpos como el átomo de hidrógeno?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        3
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se escribe el estado de posición para un sistema de dos partículas usando el producto tensorial?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        4
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿De qué manera afecta el operador de traslación de la primera partícula a los autoestados de posición conjuntos?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        4
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relacionan los operadores de traslación infinitesimales con el conmutador de los momentos lineales de dos cuerpos?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        5
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué condición deben cumplir los operadores de momento lineal para que sus respectivas operaciones de traslación conmuten entre sí?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        5
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relaciona el operador de traslación total para un sistema de dos cuerpos con los operadores de momento lineal de cada partícula?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        6
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué implicación física tiene que el operador de traslación conmute con el hamiltoniano en este sistema?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        6
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se expresa un estado general en la base de posiciones para dos partículas?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        7
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se demuestra la conmutación entre el potencial y los operadores de traslación?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        7
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué el operador de energía potencial conmutativa con el operador de traslación global da cero?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        8
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se justifica que la energía cinética conmute con las traslaciones espaciales en este sistema de dos cuerpos?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        8
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué se considera que el momento lineal total es una constante de movimiento cuando conmuta con el hamiltoniano?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        9
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relaciona la ecuación de Heisenberg con la conservación del momento lineal en un sistema de dos cuerpos?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        9
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué condición debe cumplir el hamiltoniano con el operador de traslación para que la evolución temporal y la traslación conmute?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        10
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué no podemos detectar si un laboratorio sin ventanas ha sido movido a partir de experimentos de evolución temporal?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        10
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué deja de conservarse el momento lineal al trasladar solo el electrón y el protón en un sistema de tres cuerpos?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        11
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se escribe el hamiltoniano para un sistema de tres cargas interactuantes?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        11
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué se conserva el momento lineal en un sistema de tres cuerpos según la invariancia traslacional?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        12
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué implicación física tiene que los resultados de un experimento no cambien al trasladar el sistema una distancia 'a'?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        12
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué es importante la homogeneidad espacial al estudiar procesos radiativos en diferentes lugares del universo?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        13
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se define el operador de posición relativa para un sistema de dos cuerpos?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        13
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se define la fórmula del operador de momento relativo en función de las masas y los momentos individuales?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        14
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado del conmutador entre las componentes de la posición relativa y el momento del centro de masa?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        14
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo queda expresado el hamiltoniano de dos cuerpos al cambiar a las nuevas coordenadas de posición relativa y del centro de masas?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        15
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué relación de conmutación cumplen los operadores de posición y momento conjugados en este sistema?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        15
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se define la masa reducida de un sistema de dos cuerpos y qué pinta tiene el hamiltoniano relativo?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        16
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿De qué partes se compone el operador hamiltoniano total cuando se separa el movimiento del centro de masa y el relativo?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        16
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué implicancia física tiene que el operador del centro de masa y el relativo conmuten?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        17
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se define la función de onda que relaciona la posición y el momento del centro de masa?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        17
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo queda expresado el operador hamiltoniano cuando reducimos un problema de dos cuerpos al movimiento de una sola quasi-partícula en un potencial central?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        18
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué representan la masa reducida mu y el operador de posición en la fórmula del hamiltoniano para un campo central?",
+    "relevantes": [
+      [
+        "semana01_2.pdf",
+        18
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "diapositiva": [
+      "semana02-1.pdf",
+      1
+    ],
+    "origen": "sin_contenido"
+  },
+  {
+    "pregunta": "¿Cómo puedo calcular el valor esperado del hamiltoniano para el estado fundamental de un átomo de hidrógeno sin resolver la ecuación de autovalores?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        2
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué representa exactamente la mu en la expresión del operador hamiltoniano del átomo de hidrógeno?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        2
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se calcula el valor esperado de la energía potencial en función del tamaño del átomo de hidrógeno?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        3
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿De dónde sale la estimación para la incertidumbre del momento utilizando el principio de incertidumbre?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        3
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relaciona la energía cinética esperada con la varianza del momento lineal?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        4
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué implicaciones físicas tiene que el valor medio del momento lineal sea cero en un átomo?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        4
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se obtiene la expresión para el tamaño del átomo a partir de la derivada de la energía?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        5
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula resultante para la energía del estado fundamental en función de las constantes del sistema?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        5
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo puedo estimar el tamaño y la energía del estado fundamental del átomo de hidrógeno usando las constantes del sistema?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        6
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es el valor aproximado de la masa reducida en el sistema electrón-protón en función de la masa del electrón?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        6
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué operadores conmutan con el operador de rotación en el sistema de dos cuerpos?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        7
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué se dice que el momento y la posición relativa son invariantes bajo rotaciones?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        7
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué se puede elegir cualquier dirección espacial de forma arbitraria para el eje z al aplicar el operador de rotación?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        8
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo queda expresada matricialmente la transformación de las componentes de un vector al rotar el sistema de coordenadas en sentido antihorario?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        8
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo queda expresado el operador de rotación infinitesimal actuando sobre la posición cuando las funciones trigonométricas se aproximan al primer orden?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        9
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula para escribir el operador de rotación en función del generador asociado al momento angular orbital?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        9
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relaciona el operador de traslación infinitesimal con el momento lineal en el desarrollo exponencial?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        10
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿De qué manera aparece el operador de momento angular Lz al aplicar una rotación infinitesimal en coordenadas cartesianas?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        10
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se escribe la componente z del operador de momento angular en función de las posiciones y los momentos?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        11
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado del conmutador entre la componente z del momento angular y el operador de momento lineal en x?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        11
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo puedo calcular el conmutador entre la componente z del momento angular y el cuadrado de un operador general?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        12
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado del conmutador entre la componente z del momento angular y la componente y del momento lineal?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        12
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué decimos que la componente z del momento angular conmuta con la energía potencial en coordenadas cartesianas?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        13
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relacionan los conmutadores del operador Lz con las componentes al cuadrado de la posición?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        13
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo actúa el operador de rotación infinitesimal sobre las coordenadas esféricas del estado?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        14
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué el conmutador entre el operador de rotación alrededor del eje z y el potencial central es igual a cero?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        14
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué implica físico-matemáticamente que el hamiltoniano conmute con las componentes del operador momento angular?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        15
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se expresa matemáticamente la invarianza del hamiltoniano ante rotaciones en una dirección arbitraria n?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        15
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué se considera que el valor medio del operador momento angular es constante según la ecuación de Heisenberg?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        16
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿A qué propiedad física del espacio corresponde que la invariancia rotacional se mantenga?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        16
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se escriben las relaciones de conmutación de los operadores de momento angular usando el tensor antisimétrico?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        17
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué pasa con el tensor antisimétrico epsilon si intercambiamos dos de sus índices?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        17
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se puede escribir el operador de momento angular usando el tensor antisimétrico?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        18
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué el hamiltoniano puede conmutar con el cuadrado del momento angular pero no con sus componentes individuales en ejes distintos?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        18
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuáles son las ecuaciones de autovalor para los operadores de energía y momento angular en estos estados?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        19
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relaciona el operador de momento angular al cuadrado con los operadores de posición y momento lineal según la identidad mostrada?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        19
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo puedo descomponer el operador de momento angular al cuadrado en el espacio de posiciones?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        20
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de evaluar el término cruzado entre posición y momento en coordenadas radiales?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        20
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relaciona el operador de momento angular al cuadrado con el momento lineal en coordenadas radiales según la ecuación 57?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        21
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué término debemos añadir a la expresión obtenida para incluir la energía potencial?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        21
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se descompone la ecuación de Schrödinger en coordenadas esféricas separando la parte radial y el operador de momento angular?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        22
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué términos aparecen al expandir el operador de energía cinética en términos de las derivadas radiales y el operador L al cuadrado?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        22
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué representa físicamente la amplitud de probabilidad c_nlm y cómo se relaciona con la autofunción de energía?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        23
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se desarrolla el operador del momento angular al aplicarlo sobre un estado en la base de posición usando los números cuánticos?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        23
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se comportaban las diminutas unidades de materia justo tras la gran explosión inicial?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        24
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué papel jugaron los efectos cuánticos en la formación de la materia primordial?",
+    "relevantes": [
+      [
+        "semana02-1.pdf",
+        24
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "diapositiva": [
+      "semana02-2.pdf",
+      1
+    ],
+    "origen": "sin_contenido"
+  },
+  {
+    "pregunta": "¿Qué operadores conmutan con el hamiltoniano si tenemos simetría rotacional y traslacional?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        2
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se escriben los valores propios para el operador de momento angular total y su componente z?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        2
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se expresa un vector de estado en función de los grados de libertad cuánticos usando la relación de cierre?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        3
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué representa exactamente el coeficiente c_{n,l,m} en la expansión del estado?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        3
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se expande el hamiltoniano en coordenadas radiales usando la representación de posiciones?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        4
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué pasa si aplicamos la relación de completez en la ecuación de Schrödinger para el operador de posición?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        4
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se desglosa la ecuación de Schrödinger usando los autoestados n, l, m en coordenadas esféricas?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        5
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿De qué manera actúa el operador de energía cinética rotacional sobre el vector de estado en esta base?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        5
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se expresa la ecuación diferencial radial para las autofunciones de energía en coordenadas esféricas?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        6
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿De qué forma se separan las autofunciones de energía en función de las coordenadas?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        6
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se simplifica la ecuación radial usando el cambio de variable con u(r)?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        7
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué términos componen la ecuación diferencial unidimensional para el problema de dos cuerpos?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        7
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo queda la derivada segunda de R respecto a r si hacemos el cambio de variable u(r) dividido por r?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        8
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿De qué forma se simplifica toda la expresión con derivadas radiales al juntar los términos?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        8
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se define la expresión del potencial efectivo en la ecuación radial?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        9
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿A qué tipo de problema se reduce la ecuación diferencial radial para poder resolverla más fácilmente?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        9
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué se elige habitualmente el eje z como la dirección del campo magnético externo en estos sistemas?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        10
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo afecta el número cuántico l al número de proyecciones posibles de Lz?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        10
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relacionan las proyecciones del momento angular sobre el eje z con el número cuántico magnético?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        11
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué fórmula representa la magnitud total del vector de momento angular orbital para un valor de l dado?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        11
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué se dice que el potencial de una molécula como el HCl se comporta como un oscilador armónico cerca de r0?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        12
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué tipo de fuerzas actúan en una molécula diatómica a distancias muy pequeñas según el potencial de Lennard-Jones?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        12
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué representa la distancia r0 en la gráfica del potencial de Lennard-Jones entre dos átomos?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        13
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué la curva de energía potencial tiene un mínimo y qué indica ese punto sobre la estabilidad de la molécula?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        13
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se aproxima el potencial V(r) usando una expansión en serie de Taylor alrededor del punto de equilibrio?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        14
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es la expresión para calcular la masa reducida de un sistema de dos átomos?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        14
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo puedo estimar la magnitud de la energía potencial en función del tamaño molecular?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        15
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es la expresión para la segunda derivada de la energía potencial respecto a la distancia?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        15
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se calcula la frecuencia de vibración en función de la derivada del potencial y la masa reducida?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        16
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es la expresión final para la energía de los fonones y qué relación tiene con las masas atómica y electrónica?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        16
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se calcula la energía de los niveles de un oscilador armónico cuántico?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        17
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué expresión define la variable adimensional utilizada al resolver la ecuación del oscilador armónico?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        17
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se define el hamiltoniano para una molécula que rota libremente alrededor de su centro de masa?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        18
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué expresión matemática se usa para calcular el momento de inercia en este contexto?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        18
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se calculan los niveles de energía utilizando los autoestados de momento angular orbital?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        19
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula para la diferencia de energía entre dos autoestados adyacentes?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        19
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo cambian las separaciones energéticas entre los niveles rotacionales a medida que aumenta el número cuántico l?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        20
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué relación existe entre el momento de inercia de la molécula y las distancias entre los niveles de energía?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        20
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué es necesario hacer experimentos a bajas temperaturas cuando estudiamos las energías rotacionales?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        21
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo podemos estimar el orden de magnitud de las diferencias entre niveles de energía de rotación?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        21
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relacionan los niveles de energía rotacional con la longitud de onda absorbida?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        22
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué fórmula puedo usar para calcular la distancia interatómica r0 a partir de las transiciones rotacionales?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        22
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué cuesta tanto medir solo las transiciones rotacionales en el laboratorio?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        23
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se relacionan las energías en las moléculas diatómicas cuando se combinan los efectos vibracionales y rotacionales?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        23
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cómo se calcula la energía total combinando los efectos vibracionales y rotacionales?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        24
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Qué términos componen la fórmula de los niveles de energía y qué representa cada uno?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        24
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Cuáles son las reglas de selección para los movimientos vibracionales y rotacionales cuando una molécula tiene un momento dipolar permanente?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        25
+      ]
+    ],
+    "origen": "sintetico"
+  },
+  {
+    "pregunta": "¿Por qué son más frecuentes las transiciones dipolares eléctricas en este tipo de moléculas?",
+    "relevantes": [
+      [
+        "semana02-2.pdf",
+        25
+      ]
+    ],
+    "origen": "sintetico"
+  }
+]
