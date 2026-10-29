@@ -1,28 +1,28 @@
-from app.core import supabase
+import logging
+
 from fastapi import APIRouter, HTTPException
 
-from app.rag.embedding import generar_embedding
-from app.core.supabase_client import client
 from app.models.schemas import BusquedaRequest, BusquedaResponse
+from app.rag.service import responder_consulta
 
+logger = logging.getLogger(__name__)
 
 router = APIRouter()
 
-@router .post("/")
-def buscar_documentos(payload: BusquedaRequest):#payload contiene los datos de la peticion 
-    #BusquedaRequest es el esquema que define los datos que se esperan en la peticion 
+
+@router.post("/", response_model=BusquedaResponse)
+def buscar_documentos(payload: BusquedaRequest) -> BusquedaResponse:
+    """Recibe una consulta (texto y/o imagen) y devuelve la respuesta del tutor ya evaluada."""
     try:
-        vector = generar_embedding(payload.consulta) #genera el embedding de la consulta
+        resultado = responder_consulta(
+            consulta=payload.consulta,
+            image_base64=payload.image_base64,
+            top_k=payload.top_k,
+        )
+        return BusquedaResponse(**resultado)
 
-        resultado = supabase.rpc(
-            "buscar_similares",
-            {
-                "query": vector, "top_k": payload.top_k 
-            }
-        ).execute()
-
-        return {"resultados" : resultado.data}
-
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-    
+    except ValueError as e:  # entrada inválida (sin texto ni imagen, imagen corrupta...)
+        raise HTTPException(status_code=400, detail=str(e))
+    except Exception:
+        logger.exception("Error ejecutando el tutor")
+        raise HTTPException(status_code=500, detail="Error interno al procesar la consulta.")
