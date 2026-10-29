@@ -52,6 +52,11 @@ tmp/
 .agents/
 AGENTS.md
 
+# Documentación y herramientas de Claude Code (solo locales)
+documentacion/
+CLAUDE.md
+.claude/
+
 # Documents & Local datasets
 docs/*.pdf
 docs/
